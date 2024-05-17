@@ -4,8 +4,8 @@
     padding: 0;
 }
 body{
-    background: url(bg.jpeg);
+    background: rgb(246, 245, 245);
 }
 form{
-    box-shadow: 20px 10px 100px #ffffff;
+    box-sizing: 20px 10px 100px #000000;
 }
